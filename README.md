@@ -1,9 +1,9 @@
-# Safe strength website design
+# Linking multiple websites
 
 *Automatically synced with your [v0.dev](https://v0.dev) deployments*
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/murads-projects-5707b103/v0-safe-strength-website-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/1s9zjfbolDJ)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/murads-projects-5707b103/v0-linking-multiple-websites)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/IzPrasrFtSx)
 
 ## Overview
 
@@ -14,13 +14,13 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/murads-projects-5707b103/v0-safe-strength-website-design](https://vercel.com/murads-projects-5707b103/v0-safe-strength-website-design)**
+**[https://vercel.com/murads-projects-5707b103/v0-linking-multiple-websites](https://vercel.com/murads-projects-5707b103/v0-linking-multiple-websites)**
 
 ## Build your app
 
 Continue building your app on:
 
-**[https://v0.dev/chat/projects/1s9zjfbolDJ](https://v0.dev/chat/projects/1s9zjfbolDJ)**
+**[https://v0.dev/chat/projects/IzPrasrFtSx](https://v0.dev/chat/projects/IzPrasrFtSx)**
 
 ## How It Works
 
